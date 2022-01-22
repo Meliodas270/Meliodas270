@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Meliodas270
+- 👋 Hi, I’m Roland Kosik!
 - 👀 I’m interested in computer enginiering, IOT things, databases, programing and networking.
 - 🌱 I’m currently learning in Szeged, on the SZTE University.
 - 💞️ I’m looking to collaborate on any kind of project, until it's interesting and challenging.
