@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Roland Kosik!
-- 👀 I’m interested in computer engineering, IOT things, databases, programing and networking.
-- 🌱 I’m currently a university student.
+- 👀 I’m interested in IOT thingsand programming.
 - 💞️ I’m looking to collaborate on any kind of project, until it's interesting and challenging.
 - 📫 How to reach me: kosikroli27@gmail.com.
 
